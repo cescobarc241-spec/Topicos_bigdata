@@ -1,4 +1,4 @@
-# repositorio del curso Topicos Especiales en Inteligencia Negocios
+# Repositorio del curso Topicos Especiales en Inteligencia Negocios
 
 ## Tecnologias a usar
 
@@ -10,7 +10,7 @@
 6. Hadoop (Almacenamiento distribuido)
 7. Hive (SQL)
 8. Spark 
-9. Pyspark ()
+9. Pyspark (Lenguaje Spark + Python)
 10. Databricks (Procesamiento en Nube)
 11. Jenkins (CI/CD)
 12. Aparche Airflow (Orquestacion)
